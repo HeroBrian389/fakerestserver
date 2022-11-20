@@ -1,0 +1,34 @@
+{
+    "title": "Maths Confessions",
+    "description": "The home of Maths Confessions in Trinity College Dublin.",
+    "link": "undefined",
+    "category": [],
+    "items": [
+        {
+            "id":1,
+            "title": "Scrandanavia",
+            "description": "Few bevs?",
+            "link": "undefined",
+            "author": "undefined",
+            "published": 1645660800000,
+            "created": 1645660800000,
+            "content": "",
+            "content_encoded": "",
+            "media": ""
+        },
+
+        {
+            "id":2,
+            "title": "Scrandanavia",
+            "description": "Few bevs?",
+            "link": "undefined",
+            "author": "undefined",
+            "published": 1645660800000,
+            "created": 1645660800000,
+            "content": "",
+            "content_encoded": "",
+            "media": ""
+        }
+    ]
+    
+}
